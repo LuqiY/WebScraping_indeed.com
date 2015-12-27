@@ -9,7 +9,10 @@ from collections import Counter
 from compiler.ast import flatten
 import numpy as np
 
+
+############################################
 # clean the raw html, return a list of words
+############################################
 def clean(url):
     
 # connect to the website, extract the useful text
@@ -34,8 +37,9 @@ def clean(url):
     return filtered_text
 
 
-#----------------------------------------------------------------------------------------------------
+####################################################################
 # for a given city, extract all the data scientist opening job urls
+####################################################################
 def get_job_urls(city = None, state = None):
     
     if city is not None:
@@ -144,8 +148,9 @@ def get_job_urls(city = None, state = None):
     plt.show()
 
     
-#----------------------------------------------------------------------------------------------------
+##################################
 # crawling the salary information
+##################################
 def get_salaries(city = None, state = None):
     
     if city is not None:
@@ -213,8 +218,9 @@ def get_salaries(city = None, state = None):
     return [total_amount, total_salaries_mean]
 
 
-#-----------------------------------------------------------------------------------------------------
+########################################################################
 # compare the salaries in some big cities and show the results in plots
+########################################################################
 city_list = ['New York','Boston','Bay Area','Philadelphia','Austin','Princeton','Chicago','Seattle']
 state_list = ['NY','MA','CA','PA','TX','NJ','IL','WA']
 
