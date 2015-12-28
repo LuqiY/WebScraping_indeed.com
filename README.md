@@ -34,10 +34,14 @@ There are some outputs when input the city name and state:
 ![ScreenShot](http://i4.tietuku.com/24d640c98b506744.png)
 
 
+![ScreenShot](http://i4.tietuku.com/33847c778c45ff07.png)
+
+
 ![ScreenShot](http://i4.tietuku.com/9da8d66fd993fede.png)
 
-
-![ScreenShot](http://i4.tietuku.com/33847c778c45ff07.png)
+In order to make the output more fancy, wordcloud can be introduced here. (Since I draw the wordcloud in R and the step is very simple,
+so I did not include the code in the reference.)
+![ScreenShot](http://i4.tietuku.com/5d426e8ee69c2184.png)
 
 From the above pictures, we can easily find out that Python and R are the most popular skills. Beside that, there is also a great need 
 in Hadoop, Java, SAS, SQL, C++.
@@ -49,7 +53,7 @@ constructed. The function returns the total number of opening jobs and average s
 
 Then I compared the opening jobs and average salary of some big cities in US, tables and plots have been built to visualize the results:
 
-![alt text](http://i4.tietuku.com/60dec64d487dad7e.png)
+![alt text](http://i4.tietuku.com/d27442e4edf509d5.png)
 
 ![alt text](http://i4.tietuku.com/31b8ac90d536100a.png)
 
