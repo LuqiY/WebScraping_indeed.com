@@ -41,7 +41,7 @@ There are some outputs when input the city name and state:
 
 In order to make the output more fancy, wordcloud can be introduced here. (Since I draw the wordcloud in R and the step is very simple,
 so I did not include the code in the reference.)
-![ScreenShot](http://i4.tietuku.com/5d426e8ee69c2184.png)
+![ScreenShot](http://i4.tietuku.com/c13cd226b79523f1.png)
 
 From the above pictures, we can easily find out that Python and R are the most popular skills. Beside that, there is also a great need 
 in Hadoop, Java, SAS, SQL, C++.
