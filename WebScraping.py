@@ -190,7 +190,7 @@ def get_salaries(city = None, state = None):
         page_text = requests.get(page).text
         page_text = BeautifulSoup(page_text)
         
-        #extract the job urls on current page
+        #extract all the salary tags on current page
         job_link_area = page_text.find(id = 'resultsCol')
         salaries = job_link_area.find_all('nobr')
         salaries = [tag.get_text() for tag in salaries]
