@@ -178,7 +178,7 @@ def get_salaries(city = None, state = None):
     
     total_salaries = []
     
-# loop indeed searching result pages, get all job urls
+# loop indeed searching result pages, get all salaries
     for i in xrange(num_pages):
         
         url_number = str(i*10)
