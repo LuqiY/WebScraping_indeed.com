@@ -1,5 +1,5 @@
 # WebScraping_indeed opening jobs
-
+####By Luqi(Lucy) Yao
 ###Introduction
 "Web scraping is a computer software technique of extracting information from websites. It focuses on the transformation 
 of unstructured data on the web, typically in HTML format, into structured data that can be stored 
@@ -57,7 +57,10 @@ Then I compared the opening jobs and average salary of some big cities in US, ta
 
 ![alt text](http://i4.tietuku.com/31b8ac90d536100a.png)
 
+###Conclusion
+It is a very interesting project I have done when I am hunting for a Data Scientist job. It give me an insight into the market demand, such as which skills are more popular than others, which city has the largest number of opening jobs, how about the salaries. When running the program, some csv files contain the data crawled from Internet have been automatic saved in your current directory. They can be used for further analysis.
 
+It's really amazing to use what you have learned to help you find answers of the problems you really concern. Data is in everywhere. Find it, and find the mistery behind is really awesome!
 
 
 
