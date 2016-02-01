@@ -1,7 +1,7 @@
-# WebScraping_indeed opening jobs
+# WebScrapping_indeed opening jobs
 ####By Luqi(Lucy) Yao
 ###Introduction
-"Web scraping is a computer software technique of extracting information from websites. It focuses on the transformation 
+"Web scrapping is a computer software technique of extracting information from websites. It focuses on the transformation 
 of unstructured data on the web, typically in HTML format, into structured data that can be stored 
 and analyzed in a central local database or spreadsheet." ----wikipedia
 
